@@ -7,7 +7,7 @@ edition = "2018"
 [dependencies]
 imgui = "0.3.0"
 winit = "0.21"
-ash = "0.30.0"
+ash = "0.37.0"
 env_logger = "0.7.1"
 log = "0.4.8"
 nalgebra = "0.21.0"
