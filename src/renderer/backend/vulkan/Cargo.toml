@@ -13,7 +13,7 @@ log = "0.4.8"
 nalgebra = "0.21.0"
 nalgebra-glm = "0.7.0"
 snafu = "0.6.7"
-image = "0.23.4"
+image = "0.23.12"
 petgraph = "0.5.0"
 legion = "0.2.1"
 gltf = { version = "0.15.2", features = ["names"] }
