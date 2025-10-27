@@ -1,4 +1,4 @@
-# Dragonglass
+# Obsidian
 
 Rendering gltf models with Vulkan and Rust
 
